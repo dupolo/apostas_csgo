@@ -3,10 +3,10 @@ import saldos
 porcentagem = {
     "Arthur" : [1.8, 1.7],
     "Danilo" : [1.5, 1.8],
-    "Gabriel frança" : [1.4, 1.6],
+    "Gabriel franca" : [1.4, 1.6],
     "Gabriel souza" : [1.3, 1.6],
     "Gustavo" : [1.77, 1.85],
-    "Jubão" : [1.5, 1.4],
+    "Jubao" : [1.5, 1.4],
     "Rubens" : [1.8, 1.5]
 }
 lista_escolha = []
