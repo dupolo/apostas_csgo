@@ -1,0 +1,8 @@
+Arthur         : 00.12 coins
+Danilo         : 01.50 coins
+Gabriel franca : 00.70 coins
+Gabriel souza  : 00.75 coins
+Gustavo        : 00.50 coins
+Jubao          : 00.75 coins
+Rubens         : 00.05 coins
+Paulo          : 00.60 coins
