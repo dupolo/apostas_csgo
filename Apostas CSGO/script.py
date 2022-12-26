@@ -1,8 +1,8 @@
 import saldos, time
 
 porcentagem = {
-    "Arthur" : [1.50, 1.70],
-    "Danilo" : [2.20, 1.30],
+    "Arthur" : [2.50, 1.15],
+    "Danilo" : [1.40, 1.50],
     "Gabriel franca" : [1.50, 1.40],
     "Gabriel souza" : [1.50, 1.50],
     "Gustavo" : [1.77, 1.85],
