@@ -4,11 +4,11 @@ porcentagem = {
     "Arthur" : [2.50, 1.15],
     "Danilo" : [1.40, 1.50],
     "Gabriel franca" : [1.50, 1.40],
-    "Gabriel souza" : [1.50, 1.50],
+    "Gabriel souza" : [2.50, 1.20],
     "Gustavo" : [1.77, 1.85],
-    "Jubao" : [2.00, 1.40],
+    "Jubao" : [2.10, 1.35],
     "Rubens" : [1.60, 1.45],
-    "Paulo" : [1.55, 1.35]
+    "Paulo" : [1.75, 1.25]
 }
 lista_escolha = []
 lista_jogador = []
